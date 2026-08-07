@@ -76,6 +76,12 @@ Marital status influences purchasing decisions.
   * KPI Visualization
   * Interactive Slicers
   * Dashboard Design & Layout Optimization
+  
+
+## Dashboard Screenshort
+
+<img width="1868" height="714" alt="image" src="https://github.com/user-attachments/assets/018975f0-6715-405f-b045-f58abbf6a3c5" />
+
 
 ## 💡 Business Impact
 
